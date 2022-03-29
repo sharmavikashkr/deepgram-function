@@ -1,0 +1,14 @@
+{
+  "name": "deepgram-function",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@deepgram/sdk": "^1.2.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {}
+}
